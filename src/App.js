@@ -5,6 +5,7 @@ import { getUser } from "./store/reducers/userReducer";
 import { useDispatch } from "react-redux";
 function App() {
   const dispatch = useDispatch();
+  // 
   // const {currentPage} = useSelector(state => state.user)
   useEffect(() => {
     dispatch(getUser({page : 1,perPage: 2}))
