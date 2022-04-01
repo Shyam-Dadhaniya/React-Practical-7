@@ -1,4 +1,4 @@
-# Practical-5
+# Practical-7
 ## User List App
 #### 1. CRA
 
@@ -39,5 +39,9 @@ $ npm install @reduxjs/toolkit
 #### App Preview:
 ![Screenshot from 2022-03-24 16-28-27](https://user-images.githubusercontent.com/97106864/159902174-4be78868-a47e-4743-9de9-eaebeb48f08c.png)
 ![Screenshot from 2022-03-24 16-29-01](https://user-images.githubusercontent.com/97106864/159902243-c9944a73-248c-4348-917a-618d7ee2d6a3.png)
+
+#### Live Link:
+1. Netlify: https://user-list-react-application.netlify.app/
+2. Heroku : https://user-list-react-app.herokuapp.com/
 
 
